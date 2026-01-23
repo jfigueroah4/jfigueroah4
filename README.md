@@ -2,16 +2,17 @@
 
 
 ### Hi there 👋  
-I am a **Software Development Student** passionate about technology and building useful, real-world solutions 💻  
-I enjoy learning new tools, improving my skills, and applying what I learn at university through projects and collaborations 🪴  
-My goal is to grow as a developer and contribute to innovative teams and startups, especially in Latin America 🚀  
+I am a **Software Development Student** passionate about technology and building useful, real-world solutions   
+I enjoy learning new tools, improving my skills, and applying what I learn at university through projects and collaborations 
+My goal is to grow as a developer and contribute to innovative teams and startups, especially in Latin America 
 
 <hr>
 
-- 🎓 I’m currently studying Software Development at university  
-- 🌱 I’m learning Backend technologies and strengthening my frontend skills  
-- 👯 I’m looking to collaborate on Frontend and Full Stack projects  
-- 📫 You can reach me with the links below   
+- I’m currently studying Software Development at university  
+- I’m learning Backend technologies and strengthening my frontend skills  
+- I’m looking to collaborate on Frontend and Full Stack projects  
+
+You can reach me with the links below   
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hosu._j)

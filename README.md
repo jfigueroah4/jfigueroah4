@@ -1,4 +1,4 @@
-![Profile Banner](https://user-images.githubusercontent.com/78129676/153097448-99c98939-1ceb-4d09-a14b-ef06ddbf4435.png)
+![Profile Banner]([https://user-images.githubusercontent.com/78129676/153097448-99c98939-1ceb-4d09-a14b-ef06ddbf4435.png](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/01/Programa-con-R-scaled.jpg))
 
 ### Hi there 👋  
 I am a **Software Development Student** passionate about technology and building useful, real-world solutions 💻  

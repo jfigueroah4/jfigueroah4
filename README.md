@@ -1,7 +1,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/jfigueroah4/profiel/master/Programa-con-R-scaled.jpg)
 
 
-### Hi 👋  
+### Hi 
 
 My goal is to grow as a developer and contribute to innovative teams and startups, especially in Latin America 
 

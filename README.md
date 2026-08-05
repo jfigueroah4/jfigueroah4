@@ -1,16 +1,14 @@
 ![Profile Banner](https://raw.githubusercontent.com/jfigueroah4/profiel/master/Programa-con-R-scaled.jpg)
 
 
-### Hi there 👋  
-I am a **Software Development Student** passionate about technology and building useful, real-world solutions   
-I enjoy learning new tools, improving my skills, and applying what I learn at university through projects and collaborations 
+### Hi 👋  
+
 My goal is to grow as a developer and contribute to innovative teams and startups, especially in Latin America 
 
 <hr>
 
 - I’m currently studying Software Development at university  
 - I’m learning Backend technologies and strengthening my frontend skills  
-- I’m looking to collaborate on Frontend and Full Stack projects  
 
 <hr> 
 
